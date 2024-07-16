@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**My Named Is YassenAhmedAbdalnabi From EG .
+My named in YassenAhmedAbdalnabi from EG .
 
 Here are some personal roles:
 
