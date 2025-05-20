@@ -28,7 +28,9 @@
 ### 📌 Featured Projects
 
 - 🔹 **Notly App**: A clean notes system with optional descriptions and a beautiful UI.
-- 🔹 **Task Manager v2.0**: Major update to a productivity app with more features and a modern interface.
+- 🔹 **No Distraction Timer**: No Distraction Timer هي إضافة مصممة لمساعدتك على التركيز أثناء العمل أو الدراسة من خلال حظر المواقع المشتتة للانتباه. تعتمد الإضافة على تقنية بومودورو الشهيرة التي تقسم وقت العمل إلى فترات تركيز وفترات راحة قصيرة.
+
+
 
 ---
 
