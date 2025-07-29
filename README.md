@@ -21,15 +21,20 @@
 
 ### 🛠️ Tech Stack
 
-- **Languages:** JavaScript, Python, HTML, CSS
+- **Languages:** JavaScript, Python, HTML, CSS  
+- **Frameworks & Libraries:** React, Tailwind CSS, Electron, Express.js, py-cord  
+- **Databases:** SQLite (`.db`), MongoDB 
+- **Tools & Platforms:** Git, GitHub, Vercel, Discord API, Node.js  
+- **Other Skills:** API integration, UI/UX Design, Image & File Handling in Python, 2FA & Password Manager logic, CORS debugging, Project Structuring
+
 
 ---
 
 ### 📌 Featured Projects
 
-- 🔹 **Notly App**: A clean notes system with optional descriptions and a beautiful UI.
-- 🔹 **No Distraction Timer**: No Distraction Timer هي إضافة مصممة لمساعدتك على التركيز أثناء العمل أو الدراسة من خلال حظر المواقع المشتتة للانتباه. تعتمد الإضافة على تقنية بومودورو الشهيرة التي تقسم وقت العمل إلى فترات تركيز وفترات راحة قصيرة.
-
+- 🔹 **Notly App**: A clean notes system with optional descriptions and a beautiful UI.  
+- 🔹 **No Distraction Timer**: No Distraction Timer هي إضافة مصممة لمساعدتك على التركيز أثناء العمل أو الدراسة من خلال حظر المواقع المشتتة للانتباه. تعتمد الإضافة على تقنية بومودورو الشهيرة التي تقسم وقت العمل إلى فترات تركيز وفترات راحة قصيرة.  
+- 🔹 **Just Do It**: تطبيق المهام الشهير يتميز بتصميم عصري وميزات جديدة مثل التصنيفات، الملاحظات المصاحبة، وتذكيرات ذكية.  
 
 
 ---
