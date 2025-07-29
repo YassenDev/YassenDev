@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🧑‍💻 I'm a 15-year-old self-taught developer.
+- 🧑‍💻 I'm a 16-year-old self-taught developer.
 - 🌐 I specialize in **Front-End Web Development** using HTML, CSS, and JavaScript.
 - 🤖 I also create **Discord bots** using **Python** and **py-cord**.
 - 🧠 Member of a creative team called **DevXor**.
