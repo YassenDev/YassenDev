@@ -1,61 +1,93 @@
-<h1 align="center">Hi there, I'm Yassin 👋</h1>
+<h1 align="center">👋 Hey there, I'm Yassen</h1>
 
 <p align="center">
-  <b>A passionate front-end developer from Egypt 🇪🇬</b><br>
-  <i>Always building, always learning.</i>
+  <b>Front-End Developer • Python Dev • Tech Enthusiast 🇪🇬</b><br>
+  <i>Building things that matter. Learning every single day.</i>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🧑‍💻 I'm a 16-year-old self-taught developer.
-- 🌐 I specialize in **Front-End Web Development** using HTML, CSS, and JavaScript.
-- 🤖 I also create **Discord bots** using **Python** and **py-cord**.
-- 🧠 Member of a creative team called **DevXor**.
-- 🧩 I'm obsessed with fixing computers and learning how hardware works.
-- 🎓 My dream is to study **Computer Engineering** in the future.
-- 💡 I love working on real-world projects and building things that make life easier.
+- 🧑‍💻 A **16-year-old self-taught developer** with a deep passion for tech and design.  
+- 🌐 Specialized in **Front-End Web Development** — I love crafting clean, responsive, and interactive UIs.  
+- 🤖 Experienced in **Discord bot development** using **Python** and **py-cord**.  
+- 🧠 Proud member of **DevXor**, a creative and skilled dev team.  
+- 🧩 Tech enthusiast — love fixing computers and understanding how hardware works.  
+- 🎯 Dreaming of becoming a **Computer Engineer** to combine hardware & software knowledge.  
+- 💡 Always experimenting with new tools, frameworks, and real-world problem-solving.
 
 ---
 
 ### 🛠️ Tech Stack
 
-- **Languages:** JavaScript, Python, HTML, CSS  
-- **Frameworks & Libraries:** React, Tailwind CSS, Electron, Express.js, py-cord  
-- **Databases:** SQLite (`.db`), MongoDB 
-- **Tools & Platforms:** Git, GitHub, Vercel, Discord API, Node.js  
-- **Other Skills:** API integration, UI/UX Design, Image & File Handling in Python, 2FA & Password Manager logic, CORS debugging, Project Structuring
+| Category | Technologies |
+|-----------|---------------|
+| 💻 **Languages** | JavaScript, Python, HTML, CSS |
+| ⚙️ **Frameworks & Libraries** | React, Tailwind CSS, Electron, Express.js, py-cord |
+| 🗄️ **Databases** | SQLite (`.db`), MongoDB |
+| 🧰 **Tools & Platforms** | Git, GitHub, Vercel, Node.js, Discord API |
+| 🎨 **Other Skills** | UI/UX Design, API Integration, File Handling in Python, 2FA & Password Logic, CORS Debugging, Project Structuring |
+
+---
+
+### 🌟 Featured Projects
+
+- 🔹 **Notly App** — A beautiful notes manager with optional descriptions, smooth UI/UX, and minimal design.  
+- 🔹 **No Distraction Timer** — Chrome extension that boosts focus by blocking distracting sites using Pomodoro technique.  
+- 🔹 **Cauthy** — A 2FA & password manager concept app that focuses on simplicity and security. *(Coming Soon)*  
 
 
 ---
 
-### 📌 Featured Projects
+### 🧩 My Philosophy
 
-- 🔹 **Notly App**: A clean notes system with optional descriptions and a beautiful UI.  
-- 🔹 **No Distraction Timer**: No Distraction Timer هي إضافة مصممة لمساعدتك على التركيز أثناء العمل أو الدراسة من خلال حظر المواقع المشتتة للانتباه. تعتمد الإضافة على تقنية بومودورو الشهيرة التي تقسم وقت العمل إلى فترات تركيز وفترات راحة قصيرة.  
-- 🔹 **Just Do It**: تطبيق المهام الشهير يتميز بتصميم عصري وميزات جديدة مثل التصنيفات، الملاحظات المصاحبة، وتذكيرات ذكية.  
+> “Good design is invisible.  
+> Great code is quiet.  
+> Impactful projects speak for themselves.”
 
+---
+
+### 📈 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YassenDev&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YassenDev&theme=radical&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassenDev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🧠 Currently Learning
+
+- ⚡ TypeScript  
+- ⚛️ Advanced React Concepts  
+- 🧩 Electron App Packaging & Security  
+- 🧰 Building RESTful APIs with Express.js  
+- 🧠 AI Integration & Automation Tools  
+
+---
+
+### 🧭 Future Goals
+
+- 🎓 Study **Computer Engineering**  
+- 💼 Join or lead a **tech startup** that creates meaningful tools for people  
 
 ---
 
 ### 🌐 Connect With Me
 
-- Discord: `i_lilhappy`
-- GitHub: [@YassenDev](https://github.com/YassenDev)
-
----
-
-### 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YassenDev&show_icons=true&theme=radical" alt="Yassen's GitHub Stats"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YassenDev&theme=radical" alt="GitHub Streak"/>
+  <a href="https://github.com/YassenDev"><img src="https://img.shields.io/badge/GitHub-YassenDev-181717?style=for-the-badge&logo=github"></a>
+  <a href="https://discord.com/users/"><img src="https://img.shields.io/badge/Discord-i__lilhappy-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
 ---
 
 <p align="center">
-  <i>“Code with purpose, and everything else will follow.”</i>
+  <i>“Code with purpose — and everything else will follow.”</i><br>
+  <img src="https://komarev.com/ghpvc/?username=YassenDev&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
