@@ -1,54 +1,69 @@
-<h1 align="center">👋 Hey there, I'm Yassen</h1>
+<h1 align="center">👋 Hey there, I'm <span style="color:#FF007F;">Yassen</span></h1>
 
 <p align="center">
-  <b>Front-End Developer • Python Dev • Tech Enthusiast 🇪🇬</b><br>
-  <i>Building things that matter. Learning every single day.</i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=Front-End+Developer;Python+Developer;Tech+Explorer;Always+Building+Always+Learning" alt="Typing Animation" />
+</p>
+
+<p align="center">
+  <b>🇪🇬 Front-End Developer | Python Developer | Hardware Enthusiast | CEO of CodixVerse</b><br>
+  <i>Building things that matter — with purpose, passion, and precision.</i>
 </p>
 
 ---
 
-### 🚀 About Me
+### 🧠 About Me
 
-- 🧑‍💻 A **16-year-old self-taught developer** with a deep passion for tech and design.  
-- 🌐 Specialized in **Front-End Web Development** — I love crafting clean, responsive, and interactive UIs.  
-- 🤖 Experienced in **Discord bot development** using **Python** and **py-cord**.  
-- 🧠 Proud member of **DevXor**, a creative and skilled dev team.  
-- 🧩 Tech enthusiast — love fixing computers and understanding how hardware works.  
-- 🎯 Dreaming of becoming a **Computer Engineer** to combine hardware & software knowledge.  
-- 💡 Always experimenting with new tools, frameworks, and real-world problem-solving.
+- 🧑‍💻 **16-year-old self-taught developer** passionate about creating and improving digital experiences.  
+- 🌐 Specialized in **Front-End Web Development** (HTML, CSS, JavaScript).  
+- 🤖 Experienced in **Discord bot development** using **Python & py-cord**.  
+- 🧩 Part of **DevXor**, a team of creative minds building awesome stuff.  
+- 🛠️ Love fixing computers & exploring how hardware works.  
+- 🎯 Dream: Study **Computer Engineering** and merge software with hardware innovation.  
+- 💡 I believe in **learning by doing** — real projects, real challenges, real growth.
 
 ---
 
-### 🛠️ Tech Stack
+### ⚙️ Tech Stack
 
-| Category | Technologies |
-|-----------|---------------|
-| 💻 **Languages** | JavaScript, Python, HTML, CSS |
-| ⚙️ **Frameworks & Libraries** | React, Tailwind CSS, Electron, Express.js, py-cord |
-| 🗄️ **Databases** | SQLite (`.db`), MongoDB |
-| 🧰 **Tools & Platforms** | Git, GitHub, Vercel, Node.js, Discord API |
-| 🎨 **Other Skills** | UI/UX Design, API Integration, File Handling in Python, 2FA & Password Logic, CORS Debugging, Project Structuring |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,tailwind,express,nodejs,electron,sqlite,mongodb,git,github,vercel" />
+</p>
 
 ---
 
 ### 🌟 Featured Projects
 
-- 🔹 **Notly App** — A beautiful notes manager with optional descriptions, smooth UI/UX, and minimal design.  
-- 🔹 **No Distraction Timer** — Chrome extension that boosts focus by blocking distracting sites using Pomodoro technique.  
-- 🔹 **Cauthy** — A 2FA & password manager concept app that focuses on simplicity and security. *(Coming Soon)*  
+#### 🗒️ **Notly App**
+> A simple, clean notes app with optional descriptions & beautiful UI/UX.
 
+#### ⏳ **No Distraction Timer**
+> Chrome extension that helps you stay focused using the Pomodoro technique by blocking distracting websites.
+
+#### ✅ **Just Do It**
+> A modern to-do app with smart reminders, custom categories, and a stunning design.
+
+#### 🔐 **Cauthy**
+> A secure 2FA & password manager concept app built for simplicity and protection. *(Coming Soon)*
 
 ---
 
-### 🧩 My Philosophy
+### 📚 Currently Learning
 
-> “Good design is invisible.  
-> Great code is quiet.  
-> Impactful projects speak for themselves.”
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,docker,express" /><br>
+  <b>TypeScript</b> • <b>Next.js</b> • <b>Express.js</b> • <b>Electron Security</b>
+</p>
 
 ---
 
-### 📈 GitHub Stats & Activity
+### 🚀 Future Goals
+
+- 🎓 Pursue **Computer Engineering** to bridge software and hardware.  
+- 🧩 Contribute to meaningful open-source projects.
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YassenDev&show_icons=true&theme=radical&hide_border=true" height="165"/>
@@ -56,38 +71,33 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassenDev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassenDev&layout=compact&theme=radical&hide_border=true" height="165"/>
 </p>
 
 ---
 
-### 🧠 Currently Learning
+### 🧩 Fun Facts About Me
 
-- ⚡ TypeScript  
-- ⚛️ Advanced React Concepts  
-- 🧩 Electron App Packaging & Security  
-- 🧰 Building RESTful APIs with Express.js  
-- 🧠 AI Integration & Automation Tools  
-
----
-
-### 🧭 Future Goals
-
-- 🎓 Study **Computer Engineering**  
-- 💼 Join or lead a **tech startup** that creates meaningful tools for people  
+- 🎮 I love gaming — especially open-world and story-based games.  
+- 🎵 I code while listening to **lofi & chill beats**.  
+- 🧰 I enjoy building and repairing computers in my free time.  
+- 🐍 My favorite coding language: **Python**.  
+- 🌙 Night coder — most ideas hit after midnight.  
 
 ---
 
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/YassenDev"><img src="https://img.shields.io/badge/GitHub-YassenDev-181717?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/YassenDev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://discord.com/users/"><img src="https://img.shields.io/badge/Discord-i__lilhappy-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
 ---
 
 <p align="center">
-  <i>“Code with purpose — and everything else will follow.”</i><br>
-  <img src="https://komarev.com/ghpvc/?username=YassenDev&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=YassenDev&style=flat-square&color=blue" alt="Profile Views"/>  
+  <br><br>
+  <i>“Code with purpose — and everything else will follow.”</i>
 </p>
