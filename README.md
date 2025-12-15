@@ -1,11 +1,12 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#FF007F;">Yassen</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=Front-End+Developer;Python+Developer;Tech+Explorer;Always+Building+Always+Learning" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=520&lines=Front-End+Developer;Python+Developer;Desktop+%26+Web+Builder;Tech+Explorer;Always+Building+Always+Learning" alt="Typing Animation" />
 </p>
 
 <p align="center">
-  <b>🇪🇬 Front-End Developer | Python Developer | Hardware Enthusiast | CEO of CodixVerse</b><br>
+  <b>🇪🇬 Front-End Developer | Python Developer | Full-Stack (Django) | Desktop Apps | Hardware Enthusiast</b><br>
+  <b>👑 CEO & Founder of CodixVerse Team</b><br>
   <i>Building things that matter — with purpose, passion, and precision.</i>
 </p>
 
@@ -13,20 +14,25 @@
 
 ### 🧠 About Me
 
-- 🧑‍💻 **16-year-old self-taught developer** passionate about creating and improving digital experiences.  
-- 🌐 Specialized in **Front-End Web Development** (HTML, CSS, JavaScript).  
-- 🤖 Experienced in **Discord bot development** using **Python & py-cord**.  
-- 🧩 Part of **DevXor**, a team of creative minds building awesome stuff.  
-- 🛠️ Love fixing computers & exploring how hardware works.  
-- 🎯 Dream: Study **Computer Engineering** and merge software with hardware innovation.  
-- 💡 I believe in **learning by doing** — real projects, real challenges, real growth.
+* 🧑‍💻 **16-year-old self-taught developer** focused on real-world, production-style projects.
+* 🌐 Strong background in **Front-End Web Development** (HTML, CSS, JavaScript).
+* ⚛️ Building scalable interfaces using **React, Tailwind & Next.js**.
+* 🐍 Backend development with **Python & Django** (APIs, authentication, business logic).
+* 🔗 Creating **RESTful APIs** and connecting front-end with back-end systems.
+* 🖥️ Developing **Desktop Applications** using **Electron**.
+* 🤖 Advanced **Discord bot development** with **Python & py-cord**.
+* 🧠 Experience with **AI APIs** (Groq SDK) and automation scripts.
+* 👑 **CEO & Founder of CodixVerse Team**, leading and managing development projects.
+* 🧩 Active member of **DevXor**, collaborating on real team projects.
+* 🛠️ Hardware enthusiast: PC repair, OS tweaking & system optimization.
+* 🎯 Goal: Study **Computer Engineering** and build powerful software–hardware systems.
 
 ---
 
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,tailwind,express,nodejs,electron,sqlite,mongodb,git,github,vercel" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs,tailwind,nodejs,express,django,electron,sqlite,mongodb,docker,git,github,vercel" />
 </p>
 
 ---
@@ -34,32 +40,42 @@
 ### 🌟 Featured Projects
 
 #### 🗒️ **Notly App**
-> A simple, clean notes app with optional descriptions & beautiful UI/UX.
+
+> Clean & minimal notes app with optional descriptions and smooth UI/UX.
 
 #### ⏳ **No Distraction Timer**
-> Chrome extension that helps you stay focused using the Pomodoro technique by blocking distracting websites.
+
+> Chrome extension (Pomodoro-based) that blocks distracting websites to boost focus.
 
 #### ✅ **Just Do It**
-> A modern to-do app with smart reminders, custom categories, and a stunning design.
 
-#### 🔐 **Cauthy**
-> A secure 2FA & password manager concept app built for simplicity and protection. *(Coming Soon)*
+> Advanced task manager with smart reminders, categories, animations, and modern design.
+
+#### 🌐 **Full‑Stack Web Apps**
+
+> Django-powered backends with REST APIs connected to modern React / Next.js front-ends.
+
+#### 🔐 **Cauthy** *(Coming Soon)*
+
+> Secure 2FA & password manager concept focused on simplicity and safety.
 
 ---
 
-### 📚 Currently Learning
+### 📚 Currently Learning & Improving
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,docker,express" /><br>
-  <b>TypeScript</b> • <b>Next.js</b> • <b>Express.js</b> • <b>Electron Security</b>
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,django,docker,electron,express" /><br>
+  <b>TypeScript</b> • <b>Next.js</b> • <b>Django</b> • <b>Docker</b> • <b>Electron Security</b> • <b>Backend Architecture</b>
 </p>
 
 ---
 
 ### 🚀 Future Goals
 
-- 🎓 Pursue **Computer Engineering** to bridge software and hardware.  
-- 🧩 Contribute to meaningful open-source projects.
+* 🎓 Study **Computer Engineering**.
+* 🔧 Build low-level & system-related tools.
+* 🌍 Contribute to impactful **open-source projects**.
+* 🧠 Master **full-stack + desktop app architecture**.
 
 ---
 
@@ -76,13 +92,13 @@
 
 ---
 
-### 🧩 Fun Facts About Me
+### 🧩 Fun Facts
 
-- 🎮 I love gaming — especially open-world and story-based games.  
-- 🎵 I code while listening to **lofi & chill beats**.  
-- 🧰 I enjoy building and repairing computers in my free time.  
-- 🐍 My favorite coding language: **Python**.  
-- 🌙 Night coder — most ideas hit after midnight.  
+* 🎮 Enjoy open-world & story-driven games.
+* 🎵 Code with **lofi / chill beats**.
+* 🧰 Love fixing PCs & experimenting with OS builds.
+* 🐍 Favorite language: **Python**.
+* 🌙 Most productive after midnight.
 
 ---
 
@@ -97,7 +113,6 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YassenDev&style=flat-square&color=blue" alt="Profile Views"/>  
-  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=YassenDev&style=flat-square&color=blue" alt="Profile Views"/><br><br>
   <i>“Code with purpose — and everything else will follow.”</i>
 </p>
